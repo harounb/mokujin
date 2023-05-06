@@ -28,7 +28,7 @@
         ]
     },
     {
-        "Block frame": "-8~-7",
+        "Block frame": "-9",
         "Command": "1,1",
         "Counter hit frame": "KND",
         "Damage": "7,21",
@@ -44,7 +44,7 @@
             "Spring Kick",
             "Special Cross Chop"
         ],
-        "Block frame": "+10~+20a? Needs checking",
+        "Block frame": "+10~+20a?",
         "Command": "FUFT 3+4",
         "Counter hit frame": "KND",
         "Damage": "20",

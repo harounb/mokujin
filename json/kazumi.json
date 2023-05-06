@@ -378,7 +378,7 @@
         "Counter hit frame": "FS (+6~+7) 19~20",
         "Damage": "12",
         "Gif": null,
-        "Hit frame": "-~01",
+        "Hit frame": "0~-1",
         "Hit level": "m",
         "Notes": "",
         "Recovery": "-29",
